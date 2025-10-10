@@ -1,3 +1,0 @@
-FROM debian:12-slim
-LABEL org.opencontainers.image.source="https://github.com/ondrejsika/master"
-COPY master /usr/local/bin/
